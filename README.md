@@ -11,4 +11,4 @@ Here are some demonstration of what this library are capable of :
 ![alt text](https://github.com/azharharisandi14/Intro-Geomechanics/blob/master/thumbnails/02.png?raw=true)
 
 2. Plotting stress-related graph such as Mohr diagram and "Zoback-o-gram"
-3. ![alt text](https://github.com/azharharisandi14/Intro-Geomechanics/blob/master/thumbnails/03.png?raw=true)
+![alt text](https://github.com/azharharisandi14/Intro-Geomechanics/blob/master/thumbnails/03.png?raw=true)
