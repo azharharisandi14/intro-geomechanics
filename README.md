@@ -1,6 +1,6 @@
 # Geomechanics 
 
-This repository hosts lecture notes and useful codes for geomechanics in geophysics coursework. (Most of the slides were written in Bahasa Indonesia)
+This repository hosts lecture notes and useful codes for geomechanics in geophysics coursework. (Most of the slides are written in Bahasa Indonesia)
 
 The codes are inside the codes folder. To use this library, please clone this repository and try out the demo_xx.py inside the codes folder.
 Here are some demonstration of what this library is capable of :
